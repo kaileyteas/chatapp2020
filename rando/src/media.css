@@ -1,0 +1,18 @@
+
+/** mobile */
+html {
+    font-size:12px;
+  }
+  
+  @media only screen and (min-width: 600px) {
+    /** tablet */
+    html {
+        font-size:16px;
+    }
+  }
+  @media only screen and (mind-width: 768px) {
+    /** desktop */
+    html{
+        font-size:20px;
+    }
+  }
